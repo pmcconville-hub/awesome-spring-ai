@@ -267,7 +267,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring Batch MCP Server](https://github.com/fmbenhassine/spring-batch-lab/tree/main/sandbox/spring-batch-mcp-server) - An MCP service for introspecting Spring Batch applications, providing AI assistants with access to batch job information.
 - [Spring Cloud Config MCP Server](https://github.com/ryanjbaxter/spring-cloud-config/tree/mcp-server) - An experimental MCP server implementation for Spring Cloud Config that exposes configuration management operations as AI tools, allowing AI assistants to retrieve, update, and refresh application configurations, as well as encrypt/decrypt sensitive values.
 - [JVM Diagnostics MCP](https://github.com/brunoborges/jvm-diagnostics-mcp) - A Model Context Protocol service for obtaining JVM diagnostics, allowing AI assistants to access runtime information about Java applications.
-- [Maven Tools MCP Server](https://github.com/arvindand/maven-tools-mcp) - Real-time Maven Central dependency intelligence for AI assistants with Context7 documentation integration. Built with Spring AI MCP.
+- [Maven Tools MCP Server](https://github.com/arvindand/maven-tools-mcp) - Real-time Maven Central dependency intelligence for AI assistants with Context7 documentation integration.
 
 #### Domain-Specific MCP Implementations
 - [Kotlin Crypto Price MCP Server](https://github.com/gaplo917/kotlin-cyrpto-price-spring-mcp-server-demo) - A Kotlin-based Spring AI MCP server that provides real-time cryptocurrency price information from Binance.
