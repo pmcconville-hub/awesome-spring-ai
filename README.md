@@ -200,6 +200,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - (outdated) [Workshop material for Azure OpenAI](https://github.com/Azure-Samples/spring-ai-azure-workshop) - contains step-by-step examples from 'hello world' to 'retrieval augmented generation'
 - [Gemini Workshop for Spring AI Java Developers • Dan Dobrin](https://github.com/ddobrin/gemini-workshop-for-spring-ai-java-developers) - workshop materials for the Java developer building Gen AI applications with Gemini models using Spring AI
 - [Exploring interactions with LLMs : Practical insights with Spring AI](https://github.com/AxaFrance/spring-ai-workshop) - A self-paced workshop designed to practice Spring AI basics and discover interactions with LLMs.
+- [Once Upon Spring AI: A Developer's Epic Journey into Agentic Java](https://github.com/aws-samples/sample-once-upon-spring-ai) - Through five epic chapters, go from a coding apprentice to a master of AI agent orchestration using Java 25 and Spring AI.
 
 ## Non-English Resources
 
