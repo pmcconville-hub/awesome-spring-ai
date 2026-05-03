@@ -266,6 +266,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 #### MCP Servers for Spring Projects
 - [Spring Batch MCP Server](https://github.com/fmbenhassine/spring-batch-lab/tree/main/sandbox/spring-batch-mcp-server) - An MCP service for introspecting Spring Batch applications, providing AI assistants with access to batch job information.
 - [Spring Cloud Config MCP Server](https://github.com/ryanjbaxter/spring-cloud-config/tree/mcp-server) - An experimental MCP server implementation for Spring Cloud Config that exposes configuration management operations as AI tools, allowing AI assistants to retrieve, update, and refresh application configurations, as well as encrypt/decrypt sensitive values.
+- [Swagger MCP Bridge](https://github.com/Neo1228/spring-boot-starter-swagger-mcp) - A Spring Boot starter that turns SpringDoc OpenAPI operations into MCP tools with validation, workflow orchestration, and guardrails.
 - [JVM Diagnostics MCP](https://github.com/brunoborges/jvm-diagnostics-mcp) - A Model Context Protocol service for obtaining JVM diagnostics, allowing AI assistants to access runtime information about Java applications.
 
 #### Domain-Specific MCP Implementations
