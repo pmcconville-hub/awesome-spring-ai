@@ -251,6 +251,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 ### Extensions and Forks
 
 - [Spring AI Alibaba](https://github.com/alibaba/spring-ai-alibaba) - An extension of Spring AI that provides an agentic AI framework for Java developers. Adds support for Alibaba Cloud QWen models and Dashscope services, along with additional features like conversation memory, RAG support, and function calling. Maintains compatibility with the Spring AI API while offering specialized capabilities for Alibaba Cloud's AI ecosystem.
+- [Cycles Spring AI Starter](https://github.com/runcycles/cycles-spring-ai-starter) - A Spring AI advisor + auto-configuration that adds budget enforcement and runtime authority to `ChatClient` invocations. Performs a reserve → call → commit/release lifecycle against the [Cycles](https://runcycles.io) authority server before each LLM call; denials throw before contacting the provider. Multi-tenant LLM cost control with per-subject attribution. Compatible with Java 21+, Spring Boot 3.5+, and Spring AI 1.0+.
 
 ### Development Tools
 
