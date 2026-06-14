@@ -302,6 +302,10 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Craig Walls](https://x.com/habuma)
 - [Ilja Leyberman](https://www.linkedin.com/in/ilja-leyberman-3489aa1a1/)
 
+### Communities
+
+- [Spring AI Dev](https://www.reddit.com/r/SpringAIDev/) 
+
 
 ## Podcasts
 
