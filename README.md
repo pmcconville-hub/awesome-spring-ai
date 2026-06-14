@@ -183,6 +183,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring Tips: Spring AI](https://www.youtube.com/watch?v=aNKDoiOUo9M) - October 2023
 - [Introducing Spring AI • Add Generative AI to your Spring Applications](https://www.youtube.com/watch?v=1g_wuincUdU) - October 2023
 - [Spring AI at Spring.IO Keynotes](https://youtu.be/XUz4LKZx83g?t=2940) - October 2023
+- [Short-Term & Long-Term Memory in an AI Agent with Spring AI • GeCON 2026: Dominik Cebula](https://www.youtube.com/watch?v=CCs-lYKSBiM) - May 2026
 
 #### Office Hours & Community Livestreams
 
@@ -237,6 +238,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Flight Booking Assistant](https://github.com/tzolov/playground-flight-booking) - Spring AI powered expert system demo that simulates a flight booking assistant. Demonstrates how to build domain-specific AI assistants using Spring AI.
 - [Spring AI with QianFan](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI support for various AI language models from QianFan. Shows how to interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
 - [Similarity Search using Spring AI](https://github.com/thecodemonkey/SimilaritySearch) - Implementation of a simple similarity search. Demonstrating how to use Kotlin or Java with Spring-AI to generate embeddings and perform simple similarity searches (March 2025)
+- [Spring AI Shopping Agent with Short-Term & Long-Term Memory](https://github.com/dominikcebula/spring-ai-shopping-agent) - AI-powered shopping assistant built with Spring AI and the Model Context Protocol (MCP).
 
 ### UI Clients
 
