@@ -119,6 +119,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Getting Started with Spring AI (Java Code Geeks)](https://www.javacodegeeks.com/2024/09/getting-started-with-spring-ai.html) - Simple introduction to Spring AI for Java developers (September 2024)
 - [Getting Started with Spring AI](https://medium.com/@arvindcoder/getting-started-with-spring-ai-c5a630b1d7c2) - Introduction to Spring AI's core components and model abstractions (August 2024)
 - [How to Write GenAI Applications with Java (Foojay.io)](https://foojay.io/today/spring-ai-generative-ai-java/) - Comprehensive guide covering RAG and Spring AI templates (July 2024)
+- [AI Travel Agent using Spring AI](https://blog.dominikcebula.com/ai-travel-agent-using-spring-ai/) - ✈️ Flights, 🏨 hotels, and 🚗 rental cars - powered by an 🤖 AI Travel Agent built using Spring AI (Jan 2026)
 
 ### Online Training
 
