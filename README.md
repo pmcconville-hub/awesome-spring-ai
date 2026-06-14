@@ -124,6 +124,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Udemy Courses
 
+- [Spring AI with Java: Build AI-Powered Applications](https://www.udemy.com/course/mastering-spring-ai/?referralCode=464DAC2A704ECA7A8266) - Build AI apps with Spring AI: prompts, memory, function calling, RAG, image, audio & streaming APIs by Harish BN, Infiproton Technologies (Jan 2026)
+- [Spring AI + RAG: Build Production-Grade AI with Your Data](https://www.udemy.com/course/spring-ai-rag-production-grade/?referralCode=CD2B723E718BED9503E3) - Spring AI RAG system design covering ingestion, chunking, retrieval, and prompt reliability, by Harish BN, Infiproton Technologies (Jan 2026)
 - [From Java Dev to AI Engineer: Spring AI Fast Track](https://www.udemy.com/course/java-spring-ai/) - Build AI Apps with Spring AI, OpenAI, RAG, MCP, AI Testing, Observability, Speech & Image Generation by Madan Reddy & Eazy Bytes (2024)
 - [Build AI Apps with Spring AI, OpenAI, Ollama & SpringBoot](https://www.udemy.com/course/build-ai-apps-with-spring-ai-openai-springboot/) - Learn chat with LLMs, Retrieval-Augmented Generation, tool calling, and multimodal AI using Spring AI (August 2024)
 - [Spring AI - GenAI with Telusko](https://www.udemy.com/course/spring-ai-genai/) - Build AI-powered Spring Boot applications using SpringAI with OpenAI, Ollama, RAG, vector databases, with multimodal capability by Navin Reddy (2024)
