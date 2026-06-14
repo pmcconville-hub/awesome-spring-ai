@@ -290,7 +290,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Christian Tzolov](https://x.com/christzolov)
 - [Josh Long](https://twitter.com/starbuxman)
 - [Dan Vega](https://twitter.com/therealdanvega)
-- [Thomas Vitale](https://twitter.com/ThomasVitale)
+- [Thomas Vitale](https://bsky.app/profile/thomasvitale.com)
 - [Dan Dobrin](https://x.com/ddobrin)
 - [Marcus Hellberg](https://twitter.com/marcushellberg)
 - Lize Roes
@@ -304,8 +304,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### Communities
 
-- [Spring AI Dev](https://www.reddit.com/r/SpringAIDev/) 
-
+- [Reddit - Spring AI Dev](https://www.reddit.com/r/SpringAIDev/) 
 
 ## Podcasts
 
@@ -324,6 +323,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [The Neural Maze](https://www.youtube.com/channel/UCaixkLsW_TWWe_0yZNmvPaw)
 - [The Turing Lectures (General AI)](https://www.turing.ac.uk/events/the-turing-lectures)
+
 ## Tools & Performance
 
 ### Benchmarks
