@@ -272,7 +272,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 ### Model Context Protocol
 
 #### Core Resources
-- [MCP Client Documentation](https://docs.spring.io/spring-ai/reference/api/clients/mcp-client.html) - Official documentation for implementing the Model Context Protocol client in Spring AI applications.
+- [MCP Documentation](https://docs.spring.io/spring-ai/reference/api/mcp/mcp-overview.html) - Official documentation for implementing the Model Context Protocol in Spring AI applications.
 - [MCP Client Examples](https://github.com/spring-projects/spring-ai-examples/tree/main/model-context-protocol) - Comprehensive examples showcasing the Model Context Protocol implementation in Spring AI, including client-server communication, tool discovery, filesystem operations, weather services, web search integration, and dynamic tool updates.
 - [MCP Annotations](https://github.com/spring-ai-community/mcp-annotations) - Annotation-based programming model for implementing MCP servers and clients. Provides a clean, declarative approach to handling MCP operations with reduced boilerplate code. Includes core annotations that depend only on the MCP Java SDK and a Spring AI integration module.
 
